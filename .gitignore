@@ -6,6 +6,7 @@ checkpoints
 *.parquet
 *.gzip
 *.pth
+*.png
 *log
 *.out
 # *.png
