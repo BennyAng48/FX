@@ -2,6 +2,8 @@ __pycache__
 checkpoints
 .ipynb_checkpoints
 *.csv
+*.xlsx
+*.xlsm
 *.pkl
 *.parquet
 *.gzip
